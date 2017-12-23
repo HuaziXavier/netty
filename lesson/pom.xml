@@ -138,7 +138,6 @@
     </dependencies>
     <build>
         <finalName>leason</finalName>
-        <pluginManagement>
             <plugins>
                 <plugin>
                     <groupId>org.apache.tomcat.maven</groupId>
@@ -153,7 +152,6 @@
                     </configuration>
                 </plugin>
             </plugins>
-        </pluginManagement>
 
     </build>
 </project>
